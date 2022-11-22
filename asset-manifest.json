@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jardin-infantil/static/css/main.073c9b0a.css",
+    "main.js": "/jardin-infantil/static/js/main.2bd93cd8.js",
+    "static/js/787.0754d1cd.chunk.js": "/jardin-infantil/static/js/787.0754d1cd.chunk.js",
+    "static/media/logo.svg": "/jardin-infantil/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jardin-infantil/index.html",
+    "main.073c9b0a.css.map": "/jardin-infantil/static/css/main.073c9b0a.css.map",
+    "main.2bd93cd8.js.map": "/jardin-infantil/static/js/main.2bd93cd8.js.map",
+    "787.0754d1cd.chunk.js.map": "/jardin-infantil/static/js/787.0754d1cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2bd93cd8.js"
+  ]
+}
